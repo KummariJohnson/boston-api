@@ -9,6 +9,6 @@ pinecone-client==3.2.2
 huggingface-hub==0.23.2
 transformers==4.41.2
 tokenizers==0.22.0 --only-binary=:all:
-numpy<2.0
+numpy>=2.1.0
 google-generativeai==0.8.5
 
